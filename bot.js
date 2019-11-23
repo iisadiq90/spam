@@ -4,7 +4,7 @@ const client = new Discord.Client();
 
 const client2 = new Discord.Client();
 
-const myid = [''];// ايدي حسابك
+const myid = ['307844480147521537'];// ايدي حسابك
 
 const prefix = ['#'];
 
